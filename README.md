@@ -10,7 +10,7 @@ Solaris OpenCSW [![Build Status Solaris amd64](https://buildfarm.opencsw.org/bui
 [![Build Status Solaris SparcV9](https://buildfarm.opencsw.org/buildbot/png?builder=wget2-solaris10-sparcv9)](https://buildfarm.opencsw.org/buildbot/builders/wget2-solaris10-sparcv9)
 
 # Table of Content
-- [GNU Wget2 - Introduction](#GNU-Wget2---Introduction)
+- [GNU Wget2 - Introduction](#gnu-wget2---introduction)
 - [Features](#Features)
 - [Links](#Links)
 - [Build Requirements](#Build-Requirements)
